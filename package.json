@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "Asincornismo en Js con Async await, promesas y callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernu292/Asincronismo-JS.git"
+  },
+  "keywords": [
+    "Asincronismo"
+  ],
+  "author": "Luis Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernu292/Asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/Fernu292/Asincronismo-JS#readme"
+}
