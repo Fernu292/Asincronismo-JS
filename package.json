@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Fernu292/Asincronismo-JS#readme",
   "devDependencies": {
+    "node-fetch": "^3.1.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
