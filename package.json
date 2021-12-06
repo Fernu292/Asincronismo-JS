@@ -4,7 +4,7 @@
   "description": "Asincornismo en Js con Async await, promesas y callbacks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Fernu292/Asincronismo-JS/issues"
   },
-  "homepage": "https://github.com/Fernu292/Asincronismo-JS#readme"
+  "homepage": "https://github.com/Fernu292/Asincronismo-JS#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
